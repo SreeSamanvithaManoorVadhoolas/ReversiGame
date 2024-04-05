@@ -20,7 +20,7 @@ Link for the online game: https://cardgames.io/reversi/
 - Implements a loop where players take turns making moves until no valid moves are available for either player.
 
 ## How to Play:
-1. Compile the provided source files using a C++ compiler.
+1. Compile the provided source files (https://github.com/sreesamanvitha07/ReversiGame/tree/master/ReversiGame/myCode) using a C++ compiler.
 2. Run the compiled executable.
 3. Follow the on-screen instructions to make moves on the board.
 The game continues until no valid moves are available for either player.
